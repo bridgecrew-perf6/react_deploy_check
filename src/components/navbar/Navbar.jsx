@@ -15,7 +15,7 @@ const Navbar = () => {
           <p><a href="#possibility">Open AI</a></p>
           <p><a href="#Home">Home</a></p>
           <p><a href="#features">Case Studies</a></p>
-          <p><a href="#blog">Library</a></p>
+          <p><a href="#blog">Zain Gashti</a></p>
         </div>
       </div>
     </div>
