@@ -2,7 +2,7 @@ import React from 'react';
 import "./blog.css";
 const Blog = () => {
   return (
-    <div>Zain Ul Abidin</div>
+    <div>Zain Abidin</div>
   )
 }
 
